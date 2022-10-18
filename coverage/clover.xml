@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1666117555730" clover="3.2.0">
+  <project timestamp="1666117555730" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6" elements="12" coveredelements="12" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="stack.js" path="/home/pedro/Desenv/studies/data-structures/stack/stack.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="7" count="6" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
